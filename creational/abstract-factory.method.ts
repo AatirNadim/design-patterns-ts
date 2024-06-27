@@ -38,3 +38,5 @@ class VictorianFurniture implements FurnitureFactory {
     return new Table("wood");
   }
 }
+
+export {}

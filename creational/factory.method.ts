@@ -16,3 +16,5 @@ class WaterTrasport implements Transport {
     console.log("Delivering by water");
   }
 }
+
+export {};

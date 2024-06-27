@@ -41,3 +41,5 @@ class Application {
     return this.shapes.map((shape) => shape.clone());
   }
 }
+
+export {};

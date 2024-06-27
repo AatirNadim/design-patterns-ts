@@ -30,3 +30,5 @@ class Application {
     dbInstance2.addItem("item2");
   }
 }
+
+export {};
